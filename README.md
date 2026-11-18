@@ -76,7 +76,6 @@ Search meals by name, browse by category, area or ingredient, and open full reci
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedsaber2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sayedsaber2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true)
 
 ## 📬 Get in touch
 
