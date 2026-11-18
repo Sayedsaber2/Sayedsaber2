@@ -17,7 +17,7 @@ I build responsive, accessible interfaces and wire them up to real APIs. Most of
 
 ## 🛠️ Tech stack
 
-![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,bootstrap,vite,git,github,vercel,nodejs,postman&perline=8)
+![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,bootstrap,vite,git,github,vercel,nodejs,postman,cpp&perline=8)
 
 **Core** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -26,6 +26,8 @@ I build responsive, accessible interfaces and wire them up to real APIs. Most of
 **Data and forms** &nbsp; ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![RHF](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=auth0&logoColor=white)
 
 **Tooling** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Fundamentals** &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-8B5CF6?style=flat-square) ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6366F1?style=flat-square)
 
 ## 🚀 Featured projects
 
